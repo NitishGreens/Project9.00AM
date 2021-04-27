@@ -13,3 +13,5 @@ des = driver.find_element(By.ID, "bank")
 acc = ActionChains(driver)
 
 acc.drag_and_drop(src, des).perform()
+
+print("dgfhf")
